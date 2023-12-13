@@ -1,3 +1,13 @@
+<h1 align="center">maxhu08</h1>
+
+this is my readme
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu08&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 - 👋 Hi, I’m @maxhu08
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
