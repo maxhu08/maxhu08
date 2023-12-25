@@ -1,4 +1,4 @@
-<h1 align="center">maxhu08</h1>
+<h1 align="center">👋 maxhu08</h1>
 
 this is my readme
 
