@@ -16,7 +16,7 @@ this is my readme
 
 
 <div align="center">
-  📫 Contact me at <a href="mailto:hello@maxhu.dev>hello@maxhu.dev</a>
+  📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a>
 </div>
 
 <!---
