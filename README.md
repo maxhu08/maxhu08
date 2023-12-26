@@ -11,7 +11,7 @@ this is my readme
 <div align="center">
   <a href="https://www.youtube.com/@maxhudotdev"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://maxhu.dev/"><img src="https://img.shields.io/badge/%E2%9A%A1-website-grey?labelColor=5963f0&style=for-the-badge" alt="⚡" /></a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=frog1123&color=grey&style=for-the-badge"></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maxhu08&color=grey&style=for-the-badge"></a>
 </div>
 
 
