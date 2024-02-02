@@ -1,7 +1,7 @@
 <h1 align="center">👋 maxhu08</h1>
 
 ```javascript
-const hello = (input) => `hello ${input}!`;
+console.log("hello world")
 ```
 
 <div align="center">
