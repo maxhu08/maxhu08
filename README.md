@@ -11,10 +11,10 @@ console.log("hello world");
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@maxhudotdev"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://odysee.com/@maxhudotdev:c"><img src="https://img.shields.io/badge/Odysee-orange?style=for-the-badge&logo=odysee&logoColor=white"/></a>
-  <a href="https://maxhu.dev/"><img src="https://img.shields.io/badge/website-grey?labelColor=5963f0&style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white"/></a>
-  <a href="https://blog.maxhu.dev/"><img src="https://img.shields.io/badge/blog-grey?labelColor=84cc16&style=for-the-badge&logo=bookstack&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@maxhudotdev"><img src="./assets/youtube-badge.svg"/></a>
+  <a href="https://odysee.com/@maxhudotdev:c"><img src="./assets/odysee-badge.svg"/></a>
+  <a href="https://maxhu.dev/"><img src="./assets/website-badge.svg"/></a>
+  <a href="https://blog.maxhu.dev/"><img src="./assets/blog-badge.svg"/></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maxhu08&color=grey&style=for-the-badge"></a>
 </div>
 
