@@ -18,8 +18,13 @@ console.log("hello world");
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maxhu08&color=grey&style=for-the-badge"></a>
 </div>
 
+<br />
 <div align="center">
-  📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a>
+
+📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a>
+
+⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
+
 </div>
 
 <!---
