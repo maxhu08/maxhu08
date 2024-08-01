@@ -2,20 +2,24 @@
 
 Here are all my configs
 
-- dotfiles stuff
+- dotfiles
 
   - [dotfiles](https://github.com/maxhu08/dotfiles)
   - [dotfiles-old](https://github.com/maxhu08/dotfiles-old) (not used anymore)
+
+- wallpapers
+
+  - [wallpapers](https://github.com/maxhu08/wallpapers)
 
 - rebos configs
 
   - [rebos-config-arch](https://github.com/maxhu08/rebos-config-arch)
 
-- neovim stuff
+- neovim
 
   - [neovim-zen](https://github.com/maxhu08/dotfiles-old) (archived, switched to nvchad)
 
-- suckless stuff
+- suckless
 
   - [dwm](https://github.com/maxhu08/dwm) (old dwm build)
   - [dwm-rev1](https://github.com/maxhu08/dwm-rev1) (current dwm build)
