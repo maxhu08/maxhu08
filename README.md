@@ -1,5 +1,9 @@
 <h1 align="center">👋 maxhu08</h1>
 
+- 📫 Contact me at [hello@maxhu.dev](mailto:hello@maxhu.dev)
+- ⚙ You can find all my configs [here](https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md)
+- 🙌 Find templates I use for projects [here](https://github.com/maxhu08/templates)
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu08&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,13 +19,6 @@
 </div>
 
 <br />
-<div align="center">
-
-- 📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a>
-- ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
-- 🙌 Find templates I use for projects <a href="https://github.com/maxhu08/templates">here</a>
-
-</div>
 
 <!---
 maxhu08/maxhu08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
