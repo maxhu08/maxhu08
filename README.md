@@ -1,9 +1,5 @@
 <h1 align="center">👋 maxhu08</h1>
 
-```javascript
-console.log("hello world");
-```
-
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu08&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +17,9 @@ console.log("hello world");
 <br />
 <div align="center">
 
-📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a> | ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
+- 📫 Contact me at <a href="mailto:hello@maxhu.dev">hello@maxhu.dev</a>
+- ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
+- 🙌 Find templates I use for projects <a href="https://github.com/maxhu08/templates">here</a>
 
 </div>
 
