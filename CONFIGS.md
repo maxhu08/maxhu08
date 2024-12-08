@@ -11,6 +11,10 @@ Here are all my configs
 
   - [wallpapers](https://github.com/maxhu08/wallpapers)
 
+- mtab configs
+
+  - [mtab-config-public](https://github.com/maxhu08/mtab-config-public)
+
 - rebos configs
 
   - [rebos-config-arch](https://github.com/maxhu08/rebos-config-arch)
