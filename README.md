@@ -2,7 +2,6 @@
 
 - 📫 Contact me at [contact@maxhu.dev](mailto:contact@maxhu.dev)
 - ⚙ You can find all my configs [here](https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md)
-- 🙌 Find templates I use for projects [here](https://github.com/maxhu08/templates)
 
 <div align="center">
 
